@@ -4,7 +4,7 @@
 [![Download](https://img.shields.io/github/v/release/mvased727/osu-Skin-Shuffle?label=Download&style=for-the-badge)](https://github.com/mvased727/osu-Skin-Shuffle/releases/latest)
 
 
-[Download tosu]([https://tosu.app](https://github.com/tosuapp/tosu))
+[Download tosu](https://github.com/tosuapp/tosu)
 
 
 Automatically triggers osu!'s **random skin** hotkey (`Ctrl+Shift+R`) every time you get a **Miss** while playing **osu!lazer** (or stable). 100s and 50s do not trigger it — only actual misses.
