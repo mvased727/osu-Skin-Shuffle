@@ -1,4 +1,4 @@
-# osu-miss-random-skin
+# osu-skin-shuffle
 
 Automatically triggers osu!'s **random skin** hotkey (`Ctrl+Shift+R`) every time you get a **Miss** while playing **osu!lazer** (or stable). 100s and 50s do not trigger it — only actual misses.
 
