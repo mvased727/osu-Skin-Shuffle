@@ -13,7 +13,7 @@ It works by reading live gameplay data from [tosu](https://tosu.app), a memory-r
 ## How it works
 
 1. [tosu](https://tosu.app) reads osu!'s game memory and exposes real-time gameplay state (combo, hit counts, etc.) over a local WebSocket server (`ws://127.0.0.1:24050/websocket/v2`).
-2. This script connects to that WebSocket and watches the miss counter (`play.hits\\\\\\\["0"]`).
+2. This script connects to that WebSocket and watches the miss counter (`play.hits["0"]`).
 3. Whenever the miss counter increases during active gameplay, it sends `Ctrl+Shift+R`.
 4. The counter resets whenever you leave gameplay (menu, results screen, retry), so starting a new map is never mistaken for a miss.
 
