@@ -1,4 +1,5 @@
-# osu-skin-shuffle
+# osu!SkinShuffle
+<img width="2720" height="1200" alt="skin_shuffle_hexagon_rounded" src="https://github.com/user-attachments/assets/a09169c4-2488-4d70-beb5-7a90ba75d1ac" />
 
 [![Download](https://img.shields.io/github/v/release/mvased727/osu-Skin-Shuffle?label=Download&style=for-the-badge)](https://github.com/mvased727/osu-Skin-Shuffle/releases/latest)
 
