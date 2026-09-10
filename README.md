@@ -1,6 +1,6 @@
 # osu-skin-shuffle
 
-[![Download](https://img.shields.io/badge/Download-osu--skin--shuffle-blue?style=for-the-badge&logo=github)](https://github.com/mvased727/osu-Skin-Shuffle/releases/latest/download/osu-skin-shuffle.zip)
+[![Download](https://img.shields.io/github/v/release/mvased727/osu-Skin-Shuffle?label=Download&style=for-the-badge)](https://github.com/mvased727/osu-Skin-Shuffle/releases/latest)
 
 
 [Download tosu](https://tosu.app)
