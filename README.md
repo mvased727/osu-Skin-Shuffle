@@ -28,7 +28,7 @@ Download the latest version from the [Releases](https://github.com/mvased727/osu
 3. Run the osu-skin-shuffle.exe.
 4. That's it. Every miss now triggers a random skin change.
 
-> \\\\\\\*\\\\\\\*Note:\\\\\\\*\\\\\\\* If osu!lazer is running as administrator, run this script as administrator too — otherwise Windows will block the simulated keystrokes from reaching an elevated window.
+> Note: If osu!lazer is running as administrator, run this script as administrator too — otherwise Windows will block the simulated keystrokes from reaching an elevated window.
 
 ## Troubleshooting
 
